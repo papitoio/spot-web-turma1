@@ -5,7 +5,6 @@ Funcionalidade: Cadastro de Spots
     Quero poder cadastrar alguns spots de empresas
     Para que eu possa disponibilizar para locação
 
-    @smoke
     Cenario: Novo spot
         
         Dado que estou logado como "eu@papito.io"

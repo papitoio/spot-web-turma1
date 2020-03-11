@@ -5,6 +5,7 @@ Funcionalidade: Login
 	Sendo um usuário que possui um bom email
 	Quero poder iniciar uma nova sessão
 	
+    @smoke
 	Cenario: Nova sessao
 
                 Quando eu submeto a sessao com "papito@acme.com"

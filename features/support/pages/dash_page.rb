@@ -25,7 +25,7 @@ end
 class DashPage < SitePrism::Page
     section :form, SpotForm, "#spotForm"
 
-    element :dashboard, ".dashboards"
+    element :dashboard, ".dashboard"
     element :spot_list, ".spot-list li"
     element :alert, ".alert-error"
 
